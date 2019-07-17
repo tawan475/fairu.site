@@ -2,7 +2,7 @@
 This is module to post request to fairu.site
 
 #### installing
-> npm i `fairu.site`
+> npm i fairu.site
 
 #### simple example
 ```node
