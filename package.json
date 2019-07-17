@@ -1,0 +1,27 @@
+{
+  "name": "fairu.site",
+  "version": "1.0.0",
+  "description": "This is module to post request to fairu.site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tawan475/fairu.site.git"
+  },
+  "keywords": [
+    "fairu",
+    "fairu.site",
+	"tawan475"
+  ],
+  "author": "tawan475",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tawan475/fairu.site/issues"
+  },
+  "homepage": "https://github.com/tawan475/fairu.site#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
