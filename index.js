@@ -17,9 +17,10 @@ fairu.post = function (File, callback) {
             file: data
         }
     }, (error, response, body) => {
-        var data = JSON.parse(body);
-        if (data.error) data.error = Error(data.error);
-        callback(data.result, data.error);
+        var data = JSON.parse(body)
+        if (data.error) data.error = Error(data.error)
+        var result = `https://cdn.fairu.site/${data.result}`
+        callback(result, data.error);
     });
 }
 

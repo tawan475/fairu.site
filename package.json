@@ -1,6 +1,6 @@
 {
   "name": "fairu.site",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is module to post request to fairu.site",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "fairu",
     "fairu.site",
-	"tawan475"
+    "tawan475"
   ],
   "author": "tawan475",
   "license": "MIT",
