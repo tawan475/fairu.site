@@ -1,3 +1,5 @@
+# **this repo have been deprecated**
+
 <div align="center">
   <p>
     <a href="https://nodei.co/npm/fairu.site/"><img src="https://nodei.co/npm/fairu.site.png?downloads=true&downloadRank=true&stars=true"></a>
